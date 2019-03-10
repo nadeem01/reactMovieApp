@@ -4,7 +4,7 @@ class Movie extends Component {
     render() {
         return (
             <div>
-                Home
+                Home Hel;lo asdnkasj jaskd
          </div>
         )
     }
