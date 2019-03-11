@@ -74,7 +74,7 @@ class Home extends Component {
         return (
 
             <div className="rmdb-home" >
-                <Header />
+                {/* <Header /> */}
                 {this.state.heroImage ?
                     <div>
                         <HeroImage
